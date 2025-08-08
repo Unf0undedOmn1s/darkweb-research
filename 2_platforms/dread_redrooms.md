@@ -1,7 +1,6 @@
 # Dread, Banned Forums & Red Room Myth
 
 ## 1. Dread — The Reddit of the Dark Web
-![Dread](darkweb-research/images/Dread.jpg)
 **Dread** is a popular discussion board on the dark web (accessible via `.onion` address over Tor), similar in structure to Reddit.
 
 ### Key Facts:
@@ -68,5 +67,6 @@ These forums historically offered insight into cybercriminal behavior, tool deve
 - Europol / FBI takedown reports
 - OSINT on darknet forums and marketplaces
 - Threat Intelligence reports (e.g., Flashpoint, Recorded Future)
+
 
 
