@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LockBit 3.0 Leak Site</title>
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #e0e0e0;
+      font-family: monospace;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #ff3c00;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #111;
+    }
+
+    th, td {
+      border: 1px solid #333;
+      padding: 12px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #222;
+      color: #f00;
+    }
+
+    tr:nth-child(even) {
+      background-color: #1a1a1a;
+    }
+
+    a {
+      color: #00f7ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .status {
+      font-weight: bold;
+    }
+
+    .countdown {
+      color: #ffcc00;
+    }
+
+    .published {
+      color: #00ff55;
+    }
+  </style>
+</head>
+<body>
+  <h1>LockBit 3.0 — Leak Site</h1>
+
+  <table id="victim-table">
+    <thead>
+      <tr>
+        <th>Victim</th>
+        <th>Leak Date</th>
+        <th>Status</th>
+        <th>Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="/victims/acme-corp">Company A</a></td>
+        <td>2025-07-20</td>
+        <td class="status countdown">02:12:34</td>
+        <td><a href="/preview/acme">Preview</a></td>
+      </tr>
+      <tr>
+        <td><a href="/victims/fourlis-group">Company B</a></td>
+        <td>2025-07-15</td>
+        <td class="status published">Published</td>
+        <td><a href="/download/fourlis">Download</a></td>
+      </tr>
+      <tr>
+        <td><a href="/victims/greek-hospital">Company C</a></td>
+        <td>2025-06-30</td>
+        <td class="status countdown">05:22:10</td>
+        <td><a href="/preview/ghospital">Preview</a></td>
+      </tr>
+      <tr>
+        <td><a href="/victims/crypto-xchange">Company D</a></td>
+        <td>2025-07-10</td>
+        <td class="status published">Published</td>
+        <td><a href="/download/cryptox">Download</a></td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
