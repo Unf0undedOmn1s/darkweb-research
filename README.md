@@ -1,4 +1,4 @@
-# Dark Web Intelligence Research — Public Version
+# Dark Web Intelligence Research | Public Version
 
 This repository is the **sanitized public release** of a **private GitHub repository** that contains ongoing dark web intelligence research.  
 The private repository is used for collecting, analyzing, and storing sensitive intelligence data. All such data has been carefully reviewed, **sanitized**, and **redacted** before inclusion here.
